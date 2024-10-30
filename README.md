@@ -1,15 +1,14 @@
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://abhiram-paidimarri.netlify.app/)
 <h1 align="center">Hi 👋, I'm Abhiram Paidimarri</h1>
 <h3 align="center">Former Full Stack Developer at Valuebound | Master's in Informatics Candidate at University of Louisiana at Lafayette | LeetCode Enthusiast (100 Days Badge, 500+ Problems Solved in Python) | AWS Practitioner Certified</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif"/>
 
 
+- 🔭 Currently working on: **GenAI Project** [Intelligent PDF Query System Using Google’s Gemini-Pro LLM](https://github.com/Abhiram-23/genAI_Gemini)
 
-- 🔭 Currently working on: **Generative AI Multi-PDF Chatbot using Google Gemini AI and LangChain, which leverages vector databases for advanced document analysis and response generation.** [Intelligent PDF Query System Using Google’s Gemini-Pro LLM](https://github.com/Abhiram-23/genAI_Gemini)
+- 🌱 I’m currently learning: **AWS**
 
-- 🌱 I’m currently learning: **Advanced Full-Stack Frameworks (e.g., Next.js, Express) Cloud Computing and DevOps for Full-Stack Development Enhancing My Skills in Scalable API Design and Data Pipelines**
-
-- 👯 I’m looking to collaborate on:  **Open to collaborating on innovative full-stack development projects that involve modern web technologies, scalable architecture, and robust backend solutions.**
-
-- 🤝  I’m looking for help with:  **Actively searching for full-stack developer positions in the USA to apply my experience in both frontend and backend technologies. I’m passionate about creating scalable, data-driven applications with optimized performance.**
+- 🤝  I’m looking for help with:  **Full Stack development roles.**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/Abhiram-23](https://github.com/Abhiram-23)
 
